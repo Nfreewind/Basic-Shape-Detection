@@ -1,2 +1,4 @@
 # Basic-Shape-Detection
-Basic shapes detection including identifying the object
+
+Project for class Digital Image Processing (2017)
+Basic shapes detection including identifying the object.
